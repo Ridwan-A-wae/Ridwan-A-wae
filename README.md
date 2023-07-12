@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.png) My name is Ridwan
 ==============================================================================================================================
 
-Junior full stack developer
+Full Stack Developer
 ---------------------------
 
 My name is Ridwan. I'm 23 years old. I am currently studying an online business course, but I recently discovered my passion for coding. I used to be a professional player in video games, and I learned from it that if I want to become a pro, I have to spend a lot of time on it. Now I apply that mindset to coding. I dedicate myself greatly and spend more than 10 hours a day studying and learning it. I aspire to become a skilled full-stack developer. Currently, I am continuously learning to achieve my goal.
