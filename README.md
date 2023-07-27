@@ -6,10 +6,14 @@ Full Stack Developer
 
 My name is Ridwan. I'm 23 years old. I am currently studying an online business course, but I recently discovered my passion for coding. I used to be a professional player in video games, and I learned from it that if I want to become a pro, I have to spend a lot of time on it. Now I apply that mindset to coding. I dedicate myself greatly and spend more than 10 hours a day studying and learning it. I aspire to become a skilled full-stack developer. Currently, I am continuously learning to achieve my goal.
 
-*   🌍  I'm based in Bangkok, Thailand
-*   🖥️  See my portfolio at [linktr.ee](http://linktr.ee/ridwandev219)
-*   ✉️  You can contact me at [ridwan.awae219@gmail.com](mailto:ridwan.awae219@gmail.com)
-*   🧠  I'm learning TypeScript, Django, Flask, Golang### Skills 
+* 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my portfolio at [linktr.ee](http://linktr.ee/ridwandev219)
+* ✉️  You can contact me at [ridwan.awae219@gmail.com](mailto:ridwan.awae219@gmail.com)
+* 🧠  I'm learning TypeScript, Django, Flask, Golang
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,10 +38,8 @@ My name is Ridwan. I'm 23 years old. I am currently studying an online business 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
 
-<br/>
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/Ridwan-A-wae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p><a href="https://github.com/Ridwan-A-wae" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-A-wae&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Badges
+
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
