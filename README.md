@@ -4,7 +4,9 @@ Hi 👋 My name is Ridwan A-wae
 Full Stack Developer
 --------------------
 
-My name is Ridwan. I'm 23 years old. I am currently studying an online business course, but I recently discovered my passion for coding. I used to be a professional player in video games, and I learned from it that if I want to become a pro, I have to spend a lot of time on it. Now I apply that mindset to coding. I dedicate myself greatly and spend more than 10 hours a day studying and learning it. I aspire to become a skilled full-stack developer. Currently, I am continuously learning to achieve my goal.
+Hello there! My name is Ridwan, From Thailand I am currently 23 years old. I used to work in a family business for 2 years and currently studying business through Distance Learning, which allows me to work and study simultaneously.  In my free time, I enjoy being immersed in computer-related activities, which sparked my interest in pursuing a career as a Developer. This has been the starting point for me to begin coding and continuously develop myself in this field.
+
+I started studying coding and continuously improving my skills in this field. As I became more confident in my coding abilities and desired growth in this career path, I made the decision to leave the family business and pursue coding full-time. I have worked on several projects to showcase and explore job opportunities.
 
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [linktr.ee](http://linktr.ee/ridwandev219)
