@@ -1,16 +1,4 @@
-Hi 👋 My name is Ridwan A-wae
-=============================
-
-Full Stack Developer
---------------------
-
-Hello,
-My name is Ridwan, and I'm currently 23 years old. I have previously worked in a family-owned business for 2 years. 
-In my spare time, I have a strong passion for computer studies. 
-This led me to the realization that I wanted to pursue a career as a developer. 
-I made the decision to leave the family business and transition into full-time coding. 
-This was a starting point that allowed me to begin coding regularly and continuously develop my skills.
-
+Hi 👋 My name is Ridwan
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [linktr.ee](http://linktr.ee/ridwandev219)
 *   ✉️  You can contact me at [ridwan.awae219@gmail.com](mailto:ridwan.awae219@gmail.com)
