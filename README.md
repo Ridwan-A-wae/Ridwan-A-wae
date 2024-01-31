@@ -1,6 +1,6 @@
 Hi 👋 My name is Ridwan
 *   🌍  I'm based in Bangkok, Thailand
-*   🖥️  See my portfolio at [linktr.ee](http://linktr.ee/ridwandev219)
+*   🖥️  See my Contact [linktr.ee](http://linktr.ee/ridwandev219)
 *   ✉️  You can contact me at [ridwan.awae219@gmail.com](mailto:ridwan.awae219@gmail.com)
 *   🧠  I'm learning TypeScript, Django, Flask, Golang
 
